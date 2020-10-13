@@ -31,7 +31,7 @@ describe('Find the maximum', () => {
     expect(maxOfTwoNumbers(4, 4)).toBe(4);
   });
 });
-
+//2
 describe('Find the longest word', () => {
   it('should create a function named findLongestWord', () => {
     expect(typeof findLongestWord).toBe('function');
@@ -58,7 +58,7 @@ describe('Find the longest word', () => {
     }
   });
 });
-
+//3
 describe('Calculate the sum of array of numbers', () => {
   it('should create a function named sumNumbers', () => {
     expect(typeof sumNumbers).toBe('function');
@@ -121,7 +121,7 @@ describe('Bonus: Calculate the sum', () => {
     );
   });
 });
-
+//4
 describe('Calculate the average of an array of numbers', () => {
   it('should create a function named averageNumbers', () => {
     expect(typeof averageNumbers).toBe('function');
